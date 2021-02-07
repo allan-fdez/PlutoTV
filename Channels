@@ -77,6 +77,36 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac6591140640007
 #EXTINF:-1 tvg-id="cinestelar" group-title="Infantiles", Teen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
 
+#EXTINF:-1 tvg-id="cinestelar" group-title="Infantiles", Degrassi
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091f605d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Infantiles", Anime
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Ciencia ficción 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="TV Shows", Competencias
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="TV shows", Reality
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Discovery", Misterios
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Discovery", Historias de ultratumba
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Discovery", Misterios médicos 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Discovery", Vida real
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Estelar
+
+
 #EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Estelar
 
 
@@ -109,4 +139,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 
 #EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Estelar
 
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Estelar
+
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Estelar
 
