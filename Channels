@@ -1,3 +1,112 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Guía de canales
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
 #EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Estelar
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Suspenso
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Acción
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="TV Shows", Kenan & Kell
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="TV Shows", Master Chef Arg.
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Documentales", Investiga
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Documentales", Empeños a lo bestia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f23102d5e239d00074b092a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Comedia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Acción
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Romance
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Familiar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="TV Shows", Series
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="TV Shows", Series Retro
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="TV Shows", Los tres chiflados
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="TV Shows", Series latinas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Novelas", Novelas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cable básico", TeLeFe
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cable básico", MTV Classic
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cable básico", MTV Pranks
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cable básico", MTV Animaciones
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="TV Shows", Gente increíble
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac65911406400078b8993/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Infantiles", Teen
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6991db99-f046-474a-8425-359fb765c47d&clientModelNumber=na&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=474ffd06-68d8-11eb-ac8e-0242ac110002&sid=474ffd06-68d8-11eb-ac8e-0242ac110002&userId=
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Estelar
+
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Estelar
+
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Estelar
+
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Estelar
+
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Estelar
+
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Estelar
+
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Estelar
+
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Estelar
+
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Estelar
+
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Estelar
+
+
+#EXTINF:-1 tvg-id="cinestelar" group-title="Cine", Cine Estelar
+
+
